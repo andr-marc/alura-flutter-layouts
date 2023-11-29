@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-Este projeto acompanha o curso `Flutter: aplicando constraints e implementando layouts responsivos` da Alura.
+Este projeto acompanha o curso `Flutter: estilizando e reproduzindo layouts` da Alura.
